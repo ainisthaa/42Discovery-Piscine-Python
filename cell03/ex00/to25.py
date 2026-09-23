@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 try:
 	num = input("Enter a number less than 25\n")
 	if int(num) > 25:

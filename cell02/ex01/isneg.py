@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 inp = input()
 try:
     num = int(inp)
